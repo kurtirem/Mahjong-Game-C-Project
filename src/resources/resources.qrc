@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bamboo1.png</file>
+        <file>bamboo2.png</file>
+        <file>bamboo3.png</file>
+        <file>bamboo4.png</file>
+        <file>bamboo5.png</file>
+        <file>bamboo6.png</file>
+        <file>bamboo7.png</file>
+        <file>bamboo8.png</file>
+        <file>bamboo9.png</file>
+        <file>chrysanthemum.png</file>
+        <file>circle1.png</file>
+        <file>circle2.png</file>
+        <file>circle3.png</file>
+        <file>circle4.png</file>
+        <file>circle5.png</file>
+        <file>circle6.png</file>
+        <file>circle7.png</file>
+        <file>circle8.png</file>
+        <file>circle9.png</file>
+        <file>fall.png</file>
+        <file>lotus.png</file>
+        <file>orchid.png</file>
+        <file>peony.png</file>
+        <file>pinyin1.png</file>
+        <file>pinyin2.png</file>
+        <file>pinyin3.png</file>
+        <file>pinyin4.png</file>
+        <file>pinyin5.png</file>
+        <file>pinyin6.png</file>
+        <file>pinyin7.png</file>
+        <file>pinyin8.png</file>
+        <file>pinyin9.png</file>
+        <file>pinyin10.png</file>
+        <file>pinyin11.png</file>
+        <file>pinyin12.png</file>
+        <file>pinyin13.png</file>
+        <file>pinyin14.png</file>
+        <file>pinyin15.png</file>
+        <file>spring.png</file>
+        <file>summer.png</file>
+        <file>winter.png</file>
+    </qresource>
+
+    <qresource prefix="/sounds">
+        <file>remove_pair.wav</file>
+        <file>click.wav</file>
+        <file>mistake.wav</file>
+    </qresource>
+
+    
+</RCC>
+

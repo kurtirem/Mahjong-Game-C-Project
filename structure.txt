@@ -1,0 +1,78 @@
+.
+├── Makefile
+├── Meeting-notes.md
+├── README.md
+├── doc
+│   └── readme.md
+├── libs
+│   └── readme.md
+├── plan
+│   ├── plan.pdf
+│   └── readme.md
+├── project.pro
+├── src
+│   ├── board.cpp
+│   ├── board.hpp
+│   ├── main.cpp
+│   ├── qml
+│   │   └── main.qml
+│   ├── readme.md
+│   ├── resources
+│   │   ├── bamboo1.png
+│   │   ├── bamboo2.png
+│   │   ├── bamboo3.png
+│   │   ├── bamboo4.png
+│   │   ├── bamboo5.png
+│   │   ├── bamboo6.png
+│   │   ├── bamboo7.png
+│   │   ├── bamboo8.png
+│   │   ├── bamboo9.png
+│   │   ├── chrysanthemum.png
+│   │   ├── circle1.png
+│   │   ├── circle2.png
+│   │   ├── circle3.png
+│   │   ├── circle4.png
+│   │   ├── circle5.png
+│   │   ├── circle6.png
+│   │   ├── circle7.png
+│   │   ├── circle8.png
+│   │   ├── circle9.png
+│   │   ├── click.wav
+│   │   ├── fall.png
+│   │   ├── lotus.png
+│   │   ├── mistake.wav
+│   │   ├── orchid.png
+│   │   ├── peony.png
+│   │   ├── pinyin1.png
+│   │   ├── pinyin10.png
+│   │   ├── pinyin11.png
+│   │   ├── pinyin12.png
+│   │   ├── pinyin13.png
+│   │   ├── pinyin14.png
+│   │   ├── pinyin15.png
+│   │   ├── pinyin2.png
+│   │   ├── pinyin3.png
+│   │   ├── pinyin4.png
+│   │   ├── pinyin5.png
+│   │   ├── pinyin6.png
+│   │   ├── pinyin7.png
+│   │   ├── pinyin8.png
+│   │   ├── pinyin9.png
+│   │   ├── remove_pair.wav
+│   │   ├── resources.qrc
+│   │   ├── spring.png
+│   │   ├── summer.png
+│   │   └── winter.png
+│   ├── tile.cpp
+│   ├── tile.hpp
+│   ├── tilemodel.cpp
+│   └── tilemodel.hpp
+└── tests
+    ├── Makefile
+    ├── main.cpp
+    ├── test_board.cpp
+    ├── test_board.hpp
+    ├── test_tile.cpp
+    ├── test_tile.hpp
+    ├── tests.pro
+
